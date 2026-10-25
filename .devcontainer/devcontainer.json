@@ -4,5 +4,5 @@
   "features": {
     "ghcr.io/devcontainers/features/sshd:1": {}
   },
-  "hostRequirements": { "cpus": 16 }
+  "hostRequirements": { "cpus": 4 }
 }
